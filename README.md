@@ -25,5 +25,5 @@ O objetivo deste projeto foi de estudar como desenvolvedores que desejam criar a
 
 
 ## 🛠 Skills
-Java, SpringBoot 3, JPA, Hibernate
+Java, SpringBoot 3, MongoDB
 
